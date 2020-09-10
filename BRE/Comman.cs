@@ -12,8 +12,7 @@ namespace BRE
         Book,
         Membership,
         Video,
-        PhysicalOrBooks_Commision,
-        other   
+        PhysicalOrBooks_Commision
         }
     
    
