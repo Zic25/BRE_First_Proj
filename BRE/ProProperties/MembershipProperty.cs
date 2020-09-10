@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BRE.ProProperties
 {
-    class MembershipProperty
+    public class MembershipProperty
     {
+        // all MenbershipProperty will be here with get and set
     }
 }

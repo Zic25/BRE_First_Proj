@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BRE.ProProperties
 {
-    class VideosProperty
+    public class VideosProperty
     {
+        // All VideoProperty will be here with get and set for public use
     }
 }

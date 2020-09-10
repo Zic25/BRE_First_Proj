@@ -6,7 +6,10 @@ namespace BRE_UTest
     [TestClass]
     public class UnitTestAll
     {
-        // Books Unit Tests 
+        /// <summary>
+        /// Below are some unit test case functions for unit testing with positive and negative sinarious
+        /// 
+        /// </summary>
 
         [TestMethod]
         public void TestMethodBooksPass()

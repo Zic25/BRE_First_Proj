@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace BRE
 {
-    class CommanProperty
+    public class CommanProperty
     {
-
+        // All CommanProperty will be here with get and set for public use in project
     }
 }

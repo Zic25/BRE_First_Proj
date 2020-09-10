@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BRE.ProProperties
 {
-    class OtherProperty
+    public class OtherProperty
     {
+        // All OtherProperty will be here with get and set for agent commission
     }
 }

@@ -7,11 +7,12 @@ using System.Threading.Tasks;
 
 namespace BRE
 {
-
-    class StartPoint
+    /// <summary>
+    /// Below is the Program.cs file as we have converted it to as a starting file for our requirement to identify the starting point
+    /// </summary>
+    class StartPoint 
     {
-        public static String Inputstr;
-        
+        public static String Inputstr;        
 
         public enum Level
         {

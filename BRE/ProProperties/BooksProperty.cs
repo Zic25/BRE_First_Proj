@@ -8,5 +8,6 @@ namespace BRE.ProProperties
 {
     class BooksProperty
     {
+        /// All Books Property will be here i.e. with get and set
     }
 }
